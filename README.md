@@ -3,7 +3,7 @@
 FocusFlow adalah aplikasi Android yang membantu meningkatkan produktivitas dengan manajemen tugas, timer Pomodoro, dan statistik progres.  
 Didesain modern, ringan, dan ramah pengguna, FocusFlow memadukan teknologi Kotlin, Jetpack Compose, dan Firebase untuk pengalaman terbaik.
 
-🔗 **Download:** (https://github.com/nihzaa/FocusFlow/releases/download/v1.0.5/FocusFlow_V1.05.apk)*
+🔗 **Download:** (https://github.com/nihzaa/FocusFlow/releases/download/v1.0.5/FocusFlow_V1.05.apk)
 
 🛠 **Dibangun menggunakan:**  
 - Android Studio Koala | Min SDK: 24 | Target SDK: 36  
