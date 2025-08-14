@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FocusFlow</string>
+
+    <!-- Google Sign-In and Firebase Configuration -->
+    <string name="default_notification_channel_id">default_channel_id</string>
+    <string name="admob_app_id">ca-app-pub-xxxxxxxxxxxxxxxx~yyyyyyyyyy</string>
+    <string name="default_web_client_id">842800464425-k8jkfd8a5a14agtqs2c799t1i2tjl6dh.apps.googleusercontent.com</string>
+</resources>

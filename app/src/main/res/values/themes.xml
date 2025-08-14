@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.FocusFlow" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- SplashScreen custom background -->
+        <item name="android:windowSplashScreenBackground">@color/splash_screen_background</item>
+        <item name="android:windowBackground">@color/splash_screen_background</item>
+    </style>
+
+</resources>
