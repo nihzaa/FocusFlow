@@ -56,7 +56,7 @@ Didesain modern, ringan, dan ramah pengguna, FocusFlow memadukan teknologi Kotli
 
 ---
 
-## 📷 Screenshot
+## 📷 Preview
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/nihzaa/FocusFlow/main/Asset%20Preview%20Google%20play/00.png" width="250" />
